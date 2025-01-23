@@ -1,6 +1,6 @@
-# TDANetVis
+# ZigzagNetVis
 
-Repository relative to our paper 'TDANetVis: Suggesting temporal resolutions for graph visualization using zigzag persistent homology', Raphaël Tinarrage, Jean R. Ponciano, Claudio D. G. Linhares, Agma J. M. Traina, and Jorge Poco.
+Repository relative to our paper *ZigzagNetVis: Suggesting temporal resolutions for graph visualization using zigzag persistence*, Raphaël Tinarrage, Jean R. Ponciano, Claudio D. G. Linhares, Agma J. M. Traina, and Jorge Poco.
 
 In data analysis, **temporal graphs** constitute a powerful framework for modeling dynamic and complex systems. In this context, our work has focused on two questions:
 - the automatic suggestion of **temporal resolution** (or timeslice length), a crucial parameter at the basis of many analysis techniques,
@@ -22,6 +22,6 @@ A Jupyter notebook, including our implementations of resolutions suggestion and 
 
 ## Example
 
-An example of the TDANetVis system using the Primary School network.
+An example of the ZigzagNetVis system using the Primary School network.
 
 ![TDANETVis](img/TDANetVis_Frontend.png?raw=true "TDANetVis")
