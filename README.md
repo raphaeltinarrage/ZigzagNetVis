@@ -1,6 +1,8 @@
 # ZigzagNetVis
 
-Repository relative to our paper *ZigzagNetVis: Suggesting temporal resolutions for graph visualization using zigzag persistence*, Raphaël Tinarrage, Jean R. Ponciano, Claudio D. G. Linhares, Agma J. M. Traina, and Jorge Poco.
+Repository relative to our paper <a href="https://ieeexplore.ieee.org/document/10844578">ZigzagNetVis: Suggesting temporal resolutions for graph visualization using zigzag persistence</a><br>
+Raphaël Tinarrage, Jean R. Ponciano, Claudio D. G. Linhares, Agma J. M. Traina, and Jorge Poco.<br>
+IEEE Transactions on Visualization and Computer Graphics **31**, 1–18 (2025)
 
 In data analysis, **temporal graphs** constitute a powerful framework for modeling dynamic and complex systems. In this context, our work has focused on two questions:
 - the automatic suggestion of **temporal resolution** (or timeslice length), a crucial parameter at the basis of many analysis techniques,
@@ -8,17 +10,11 @@ In data analysis, **temporal graphs** constitute a powerful framework for modeli
 
 We adress both problems from the perspective of Topological Data Analysis, and more specifically zigzag persistent homology.
 
-## Video demonstration
-
-https://user-images.githubusercontent.com/57508719/229124755-3055d49a-3966-44a1-a7ba-afefd25bc4f3.mp4
-
 ## Software demonstration
 
 Link to prototype: http://visualdslab.com/zigzagnetvis/
 
-A Jupyter notebook, including our implementations of resolutions suggestion and colored barcodes, can be accessed at https://github.com/raphaeltinarrage/ZigzagNetVis/blob/main/Demo.ipynb
-
-## Preprint paper
+A Jupyter notebook, including our implementations of resolutions suggestion and colored barcodes, is found at https://github.com/raphaeltinarrage/ZigzagNetVis/blob/main/Demo.ipynb
 
 ## Example
 
